@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 This is a test
 >>>>>>> v1.0
+=======
+This is a
+>>>>>>> parent of 782535f... branch -master commit test.txt
